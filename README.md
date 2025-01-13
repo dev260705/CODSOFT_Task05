@@ -1,3 +1,3 @@
-# CODSOFT_Task05
+# Contact Book
 
-This is My Task05 of CodSoft Internship Training
+This is a Contact Book in which user can add contact details, search and delete the contact details.
